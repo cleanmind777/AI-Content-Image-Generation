@@ -1,6 +1,6 @@
-# Nex.ai 🚀
+# Nex.ai – AI SaaS Platform
 
-AI-powered SaaS platform to create content, generate images, and enhance productivity using modern AI tools.
+An intelligent, AI-powered SaaS platform designed to enhance productivity through content generation, image creation, and smart AI-driven tools, built using a modern and scalable tech stack.
 
 ![Nex.ai Landing Page](https://res.cloudinary.com/dxzut3mlw/image/upload/v1769580509/landing_page_phjdfy.png)
 ---
@@ -96,7 +96,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ### 1️. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nexai.git
+git clone https://github.com/jayvar03/nexai.git
 cd nexai
 ```
 
