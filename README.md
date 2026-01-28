@@ -2,6 +2,8 @@
 
 An intelligent, AI-powered SaaS platform designed to enhance productivity through content generation, image creation, and smart AI-driven tools, built using a modern and scalable tech stack.
 
+🔗 **Live Demo:** https://nexai-saas.vercel.app/
+
 ![Nex.ai Landing Page](https://res.cloudinary.com/dxzut3mlw/image/upload/v1769580509/landing_page_phjdfy.png)
 ---
 
